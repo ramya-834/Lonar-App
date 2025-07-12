@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1545721_lonar_re_loaner_request_user">x_1545721_lonar_re_loaner_request_user</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>LNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-09 05:49:31</sys_created_on>
+        <sys_id>8cf63a3283e22210def898c6feaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Lonar Request" source="x_1545721_lonar_re">57857a3e83a22210def898c6feaad3fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonar Request">57857a3e83a22210def898c6feaad3fb</sys_scope>
+        <sys_update_name>sys_number_8cf63a3283e22210def898c6feaad39f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-09 05:49:31</sys_updated_on>
+    </sys_number>
+</record_update>

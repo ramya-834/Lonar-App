@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-09 05:49:33</sys_created_on>
+        <sys_id>2cf63a3283e22210def898c6feaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545721_lonar_re_loaner_request_user.x_1545721_lonar_re.loaner_request_user</sys_name>
+        <sys_package display_value="Lonar Request" source="x_1545721_lonar_re">57857a3e83a22210def898c6feaad3fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonar Request">57857a3e83a22210def898c6feaad3fb</sys_scope>
+        <sys_security_acl display_value="x_1545721_lonar_re_loaner_request_user">20f63a3283e22210def898c6feaad3ca</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2cf63a3283e22210def898c6feaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-09 05:49:33</sys_updated_on>
+        <sys_user_role display_value="x_1545721_lonar_re.loaner_request_user" name="x_1545721_lonar_re.loaner_request_user">fba576be83a22210def898c6feaad307</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
